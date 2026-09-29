@@ -9,7 +9,13 @@
   "nav": {
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "mechanics": "Mechanics",
+    "characters": "Characters",
+    "platforms": "Platforms",
+    "news": "News",
+    "story": "Story"
   },
   "home": {
     "meta": {
@@ -405,7 +411,30 @@
       "secondary": "Play on Steam"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "SAW Genesis Guides",
+    "overviewDescription": "Start here for SAW Genesis guides covering the release date, how to play, the playtest and beta, and a full beginner walkthrough of the 3v1 trial loop."
+  },
+  "mechanics": {
+    "overviewTitle": "SAW Genesis Gameplay & Mechanics",
+    "overviewDescription": "Learn how SAW Genesis gameplay works: multiplayer player counts, crossplay support, single player options, and the traps the Judge uses to test the Accused."
+  },
+  "characters": {
+    "overviewTitle": "SAW Genesis Characters",
+    "overviewDescription": "Meet the SAW Genesis cast, from the Judge and the Accused to Jigsaw, John Kramer, and Billy, and see how each role shapes a trial."
+  },
+  "platforms": {
+    "overviewTitle": "SAW Genesis Platforms",
+    "overviewDescription": "Check every SAW Genesis platform, including Steam and PC, PS5, Xbox, Nintendo Switch, and what console players can expect at launch."
+  },
+  "news": {
+    "overviewTitle": "SAW Genesis News & Updates",
+    "overviewDescription": "The latest SAW Genesis news, trailers, and announcements, including the official trailer, release updates, and Gamescom coverage."
+  },
+  "story": {
+    "overviewTitle": "SAW Genesis Story & Lore",
+    "overviewDescription": "Explore the SAW Genesis story, lore, and setting, plus the plot and timeline that connect the game to the wider SAW universe."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
