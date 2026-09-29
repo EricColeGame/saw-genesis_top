@@ -25,7 +25,7 @@ export const siteConfig: SiteConfig = {
   tagline: "Complete Guides, Traps, Roles & Survival Strategies",
   description: "Complete SAW Genesis Wiki covering gameplay guides, Judge and Accused roles, traps, puzzles, updates, and survival strategies for this 3v1 multiplayer horror experience.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://saw-genesis.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://saw-genesis.top").hostname.replace(/^www\./, "")}`,
+  supportEmail: "support@saw-genesis.top",
   gameUrl: "https://store.steampowered.com/app/2865960/SAW_Genesis/",
   heroVideoId: "PhgYHFBjq48", // SAW: Genesis Multiplayer Horror Game Official Trailer
   social: {
