@@ -12,7 +12,7 @@ import { routing } from "@/i18n/routing";
 
 const inter = Inter({ subsets: ["latin"], variable: "--font-sans" });
 
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top";
+const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://saw-genesis.top";
 
 export function generateStaticParams() {
   return routing.locales.map((locale) => ({ locale }));
@@ -24,8 +24,9 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   const adsenseId = process.env.NEXT_PUBLIC_GOOGLE_ADSENSE_ID;
   return {
     metadataBase: new URL(siteUrl),
-    title: { default: "VV: ULTIMATUM Wiki", template: "%s" },
-    description: "Complete VV: ULTIMATUM fan wiki with codes, bosses, builds, races, guides and progression walkthroughs.",
+    manifest: "/manifest.json",
+    title: { default: "SAW Genesis Wiki - Traps, Guides & Gameplay", template: "%s" },
+    description: "Explore SAW Genesis Wiki with detailed gameplay guides, trap information, Judge and Accused strategies, updates, and survival tips for the new multiplayer horror game.",
     openGraph: { type: "website", locale, url: siteUrl, siteName: siteConfig.name, images: [{ url: image }] },
     twitter: { card: "summary_large_image", images: [image] },
     ...(adsenseId ? { other: { "google-adsense-account": adsenseId } } : {}),
