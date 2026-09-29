@@ -1,1 +1,474 @@
-{}
+{
+  "site": {
+    "name": "SAW Genesis Wiki",
+    "shortName": "SAW Genesis",
+    "tagline": "Guías completas, trampas, roles y estrategias de supervivencia",
+    "description": "Wiki completa de SAW Genesis con guías de juego, roles de Juez y Acusado, trampas, acertijos, novedades y estrategias de supervivencia para esta experiencia de terror multijugador 3v1.",
+    "legalNotice": "Wiki de fans no oficial. Hecha por jugadores, para jugadores."
+  },
+  "nav": {
+    "home": "Inicio",
+    "menu": "Menú",
+    "toggleTheme": "Cambiar tema",
+    "guide": "Guía",
+    "mechanics": "Mecánicas",
+    "characters": "Personajes",
+    "platforms": "Plataformas",
+    "news": "Noticias",
+    "story": "Historia"
+  },
+  "home": {
+    "meta": {
+      "title": "SAW Genesis Wiki: trampas, guías y jugabilidad",
+      "description": "Explora la Wiki de SAW Genesis con guías detalladas de jugabilidad, información sobre trampas, estrategias de Juez y Acusado, novedades y consejos de supervivencia para el nuevo juego de terror multijugador."
+    },
+    "hero": {
+      "eyebrow": "Juego de terror multijugador asimétrico",
+      "title": "SAW Genesis Wiki",
+      "description": "Wiki completa de SAW Genesis con guías de juego, roles de Juez y Acusado, trampas, acertijos, novedades y estrategias de supervivencia para esta experiencia de terror multijugador 3v1.",
+      "stats": [
+        "3 roles disponibles",
+        "0 códigos activos",
+        "Novedades semanales",
+        "Visitas totales: por confirmar"
+      ],
+      "primaryCta": "Guía para principiantes",
+      "secondaryCta": "Roles de Juez y Acusado",
+      "tertiaryCta": "Jugar en Steam",
+      "videoLabel": "Contenido oficial"
+    },
+    "updates": {
+      "title": "Últimas novedades",
+      "browse": "Ver todas las guías",
+      "viewAll": "Ver todo"
+    },
+    "start": {
+      "eyebrow": "Empieza aquí",
+      "title": "Tu recorrido por SAW Genesis",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guía para principiantes",
+          "description": "Aprende los roles de Acusado y Juez, los hábitos de supervivencia en el laberinto y las tácticas de chat de voz antes de tu primera prueba en SAW Genesis."
+        },
+        {
+          "number": "2",
+          "title": "Roles: Juez contra Acusado",
+          "description": "Compara ambos bandos del combate 3v1 y decide si quieres dirigir la prueba o escapar de ella."
+        },
+        {
+          "number": "3",
+          "title": "Trampas y nociones básicas de supervivencia",
+          "description": "Conoce las situaciones de trampa, gestiona las lesiones permanentes y mantén a tu equipo avanzando por el laberinto."
+        },
+        {
+          "number": "4",
+          "title": "Cómo jugar",
+          "description": "Comprende el bucle principal, la lista de espera del playtest y qué esperar de tu primera partida de SAW Genesis."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Tendencias ahora",
+      "quickLinks": [
+        "Guía del Juez",
+        "Guía del Acusado",
+        "Trampas",
+        "Fecha de lanzamiento"
+      ],
+      "cards": [
+        {
+          "badge": "Principiante",
+          "title": "Guía para principiantes de SAW Genesis",
+          "description": "Roles, supervivencia en el laberinto, tácticas de chat de voz y todo lo que necesitas para tu primera prueba.",
+          "href": "/guide/saw-genesis-beginner-guide"
+        },
+        {
+          "badge": "Nuevo",
+          "title": "Guía del Juez",
+          "description": "Pasillos ocultos, gas alucinógeno, toxinas y cómo el frágil Juez gana las pruebas.",
+          "href": "/characters/saw-genesis-judge"
+        },
+        {
+          "badge": "Popular",
+          "title": "Guía del Acusado",
+          "description": "Cómo se alían tres prisioneros, qué cuesta sacrificar partes del cuerpo y cómo superar al Juez.",
+          "href": "/characters/saw-genesis-accused"
+        },
+        {
+          "badge": "Actualizado",
+          "title": "Guía de supervivencia ante trampas",
+          "description": "Cómo funcionan las trampas de SAW Genesis y un método paso a paso para sobrevivir a las pruebas del laberinto.",
+          "href": "/mechanics/saw-genesis-traps"
+        },
+        {
+          "badge": "Popular",
+          "title": "Jugabilidad explicada",
+          "description": "El bucle 3v1 de Juez contra Acusado, mapas procedurales, lesiones duraderas y consejos de supervivencia.",
+          "href": "/mechanics/saw-genesis-gameplay"
+        },
+        {
+          "badge": "Actualizado",
+          "title": "Fecha de lanzamiento",
+          "description": "SAW Genesis se ha trasladado al primer trimestre de 2027 en Steam Early Access; esto es lo que cambió y por qué.",
+          "href": "/guide/saw-genesis-release-date"
+        },
+        {
+          "badge": "Popular",
+          "title": "Historia y trasfondo",
+          "description": "El Juez, la línea temporal de los años 20 y cómo encaja SAW Genesis en el canon de Jigsaw.",
+          "href": "/story/saw-genesis-story"
+        },
+        {
+          "badge": "Nuevo",
+          "title": "Plataformas y requisitos de PC",
+          "description": "Todas las plataformas confirmadas, el estado en Steam y los requisitos del sistema que necesitarás.",
+          "href": "/platforms/saw-genesis-platforms"
+        },
+        {
+          "badge": "Nuevo",
+          "title": "Estado del crossplay",
+          "description": "Lo que está confirmado ahora mismo sobre el crossplay y la progresión cruzada de SAW Genesis.",
+          "href": "/mechanics/saw-genesis-crossplay"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "¿Qué es SAW Genesis?",
+      "paragraphs": [
+        "SAW Genesis es un juego de terror multijugador asimétrico 3v1 de Bloober Team que lleva la saga SAW al Londres de los años 20, décadas antes de las pruebas de John Kramer. Un jugador se convierte en el Juez, un arquitecto temprano de la filosofía que llegaría a ser Jigsaw, mientras tres Acusados colaboran para resolver pruebas, sobrevivir a las trampas y escapar de un laberinto que se reorganiza en cada partida.",
+        "En lugar de un sótano industrial moderno, SAW Genesis se desarrolla en las sombrías secuelas de la Primera Guerra Mundial, donde toscas trampas impulsadas por vapor y las lesiones permanentes convierten cada decisión en una cuestión de vida o miembro. Nuestra Wiki de SAW Genesis cubre los roles, las tácticas de supervivencia ante trampas, la historia, las plataformas y las novedades de lanzamiento con guías gratuitas basadas en datos confirmados."
+      ],
+      "stats": [
+        {
+          "label": "Desarrollador",
+          "value": "Bloober Team"
+        },
+        {
+          "label": "Plataforma",
+          "value": "PC (Steam)"
+        },
+        {
+          "label": "Género",
+          "value": "Terror 3v1"
+        },
+        {
+          "label": "Ambientación",
+          "value": "Londres de los años 20"
+        },
+        {
+          "label": "Jugadores",
+          "value": "4 (3v1)"
+        },
+        {
+          "label": "Lanzamiento",
+          "value": "Early Access 2027"
+        }
+      ],
+      "cta": "Explorar todas las guías"
+    },
+    "explore": {
+      "title": "Explora la Wiki de SAW Genesis",
+      "description": "Todos los sistemas de SAW Genesis en un solo lugar: el bucle de juego 3v1, los roles de Juez y Acusado, trampas, mapas, novedades, requisitos del sistema y la comunidad oficial.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Guía de jugabilidad de SAW Genesis",
+          "description": "Explica el bucle de juego principal, la estructura de terror asimétrico 3v1, los objetivos de la partida y cómo funcionan los roles de Juez y Acusado. Este módulo ayuda a los nuevos jugadores a entender qué esperar antes de jugar.",
+          "href": "/mechanics/saw-genesis-gameplay",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Entra en una prueba 3v1 como uno de los tres Acusados o como Juez"
+            },
+            {
+              "label": "2",
+              "detail": "Los Acusados rebuscan objetos, resuelven desafíos y reúnen llaves antes de que se agote el tiempo"
+            },
+            {
+              "label": "3",
+              "detail": "El Juez usa pasillos ocultos, gas alucinógeno y toxinas paralizantes para controlar el ritmo"
+            },
+            {
+              "label": "4",
+              "detail": "Escapad juntos del laberinto o dejad que os arrastren a una Trampa de Rehabilitación"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Guía de personajes de SAW Genesis",
+          "description": "Presenta los bandos jugables, incluidos los roles de Juez y Acusado, sus diferencias de jugabilidad y sus responsabilidades estratégicas durante las pruebas. Útil para búsquedas sobre personajes, roles y clases.",
+          "href": "/characters/saw-genesis-characters",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Juez",
+              "detail": "Rol en solitario que diseña la prueba, vigila los pasillos ocultos y controla las trampas"
+            },
+            {
+              "label": "Acusado",
+              "detail": "Equipo de tres jugadores que reúne llaves, resuelve acertijos y escapa en grupo"
+            },
+            {
+              "label": "Cómplice",
+              "detail": "Aliado invocable que arrastra a los Acusados aislados hacia las Trampas de Rehabilitación"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Guía para principiantes de SAW Genesis",
+          "description": "Ofrece consejos para principiantes sobre estrategias de supervivencia, trabajo en equipo, conciencia de las trampas y decisiones básicas para quienes juegan por primera vez. Pensada para búsquedas de nuevos jugadores y la preparación del acceso anticipado.",
+          "href": "/guide/saw-genesis-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Únete a la lista de espera oficial a través de la página del playtest de SAW Genesis"
+            },
+            {
+              "label": "2",
+              "detail": "Completa el registro, firma el NDA y reclama tu clave de Steam"
+            },
+            {
+              "label": "3",
+              "detail": "Predescarga el cliente antes del día de la prueba para no perderte las primeras horas"
+            },
+            {
+              "label": "4",
+              "detail": "Prueba tu micrófono, porque el chat de voz por proximidad es clave para sobrevivir"
+            },
+            {
+              "label": "5",
+              "detail": "Aprende los controles en el tutorial para no titubear bajo presión"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Guía de trampas de SAW Genesis",
+          "description": "Aborda las mecánicas de trampas del juego, los peligros del entorno y cómo interactúan los jugadores con los desafíos durante las pruebas. Está dirigida a quienes buscan trampas, acertijos y mecánicas de supervivencia.",
+          "href": "/mechanics/saw-genesis-traps",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Trampas de rehabilitación letales en las que una sola decisión errónea puede acabar con la partida"
+            },
+            {
+              "label": "A",
+              "detail": "Peligros con lesiones permanentes que cuestan un brazo o una pierna y debilitan cada acertijo posterior"
+            },
+            {
+              "label": "B",
+              "detail": "Trampas de control como el gas y las toxinas, que dividen al grupo y consumen el tiempo"
+            },
+            {
+              "label": "C",
+              "detail": "Peligros menores que frenan al equipo sin dejar daños duraderos"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Guía de mapas de SAW Genesis",
+          "description": "Explica los sistemas de mapas, los entornos generados proceduralmente, los objetivos de exploración y las estrategias de navegación. Este módulo puede ampliarse a medida que se revelen localizaciones oficiales.",
+          "href": "/story/saw-genesis-setting",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Londres",
+              "detail": "La ambientación del Londres de los años 20 tras la Primera Guerra Mundial define cada entorno de prueba"
+            },
+            {
+              "label": "Aleatorio",
+              "detail": "Los diseños procedurales reorganizan rutas y trampas entre partidas"
+            },
+            {
+              "label": "2 mapas",
+              "detail": "Hay dos localizaciones previstas para el acceso anticipado, que se ampliarán a unas cinco en el lanzamiento completo"
+            },
+            {
+              "label": "Salidas",
+              "detail": "Encuentra las llaves y llega a la salida antes de que expire el temporizador de la prueba"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Noticias y novedades de SAW Genesis",
+          "description": "Reúne anuncios oficiales, información sobre los playtests, novedades del acceso anticipado y noticias de desarrollo. Ayuda a quienes buscan novedades de lanzamiento y contenido nuevo.",
+          "href": "/news/saw-genesis-news",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Q1 2027",
+              "detail": "Ventana de acceso anticipado de SAW Genesis en Steam tras el retraso desde 2026"
+            },
+            {
+              "label": "24 sep 2026",
+              "detail": "Bloober Team confirma que la ventana de lanzamiento se traslada al primer trimestre de 2027"
+            },
+            {
+              "label": "Ago 2026",
+              "detail": "Se anuncia la primera prueba alfa cerrada para el playtest de SAW Genesis"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Requisitos del sistema de SAW Genesis",
+          "description": "Muestra los requisitos oficiales de PC, las plataformas compatibles y la información técnica necesaria antes de jugar. Dirigido a búsquedas sobre preparación de descargas y rendimiento.",
+          "href": "/platforms/saw-genesis-pc",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "SO",
+              "detail": "Windows 11 (25H2) aparece tanto en los requisitos mínimos como en los recomendados"
+            },
+            {
+              "label": "CPU",
+              "detail": "Intel Core i5-14400F o equivalente"
+            },
+            {
+              "label": "RAM",
+              "detail": "16 GB de memoria"
+            },
+            {
+              "label": "GPU",
+              "detail": "GeForce RTX 3070 8 GB como mínimo, RTX 5060 8 GB recomendada"
+            },
+            {
+              "label": "Almacenamiento",
+              "detail": "15 GB de espacio disponible y una SSD NVMe obligatoria"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Guía de la comunidad de SAW Genesis",
+          "description": "Ofrece los canales oficiales de la comunidad, incluidos Discord y las redes sociales, donde los jugadores pueden comentar novedades, playtests y estrategias. Útil para quienes buscan comunidades oficiales.",
+          "href": "/guide/saw-genesis-playtest",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Discord",
+              "detail": "Únete al Discord oficial de SAW Genesis para las oleadas de playtest y las novedades"
+            },
+            {
+              "label": "Redes",
+              "detail": "Sigue el centro social oficial para ver tráilers y anuncios"
+            },
+            {
+              "label": "Steam",
+              "detail": "Añade SAW Genesis a tu lista de deseados en Steam y sigue la página de la tienda para las noticias de lanzamiento"
+            },
+            {
+              "label": "YouTube",
+              "detail": "Mira el tráiler oficial de SAW Genesis y los vídeos de jugabilidad"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas frecuentes",
+      "description": "Respuestas rápidas a las preguntas más comunes sobre SAW Genesis.",
+      "items": [
+        {
+          "question": "¿Qué es SAW Genesis?",
+          "answer": "SAW Genesis es un juego de terror multijugador asimétrico 3v1 de Bloober Team ambientado en el Londres de los años 20. Un jugador controla al Juez y las trampas de la prueba, mientras tres Acusados cooperan para resolver desafíos, reunir llaves y escapar del laberinto."
+        },
+        {
+          "question": "¿Cuándo se lanza SAW Genesis?",
+          "answer": "SAW Genesis apunta al acceso anticipado de Steam en el primer trimestre de 2027. Bloober Team trasladó la ventana desde 2026 para dar más tiempo de desarrollo al juego, y se espera un lanzamiento completo tras aproximadamente un año de acceso anticipado."
+        },
+        {
+          "question": "¿Cuántos jugadores admite SAW Genesis?",
+          "answer": "Cada partida de SAW Genesis es una prueba 3v1: tres Acusados contra un Juez, cuatro jugadores en total. Los mapas se generan proceduralmente, así que el diseño cambia entre partidas."
+        },
+        {
+          "question": "¿Se puede jugar a SAW Genesis en solitario?",
+          "answer": "SAW Genesis está pensado para el multijugador online y no hay un modo para un solo jugador confirmado. La estructura 3v1 depende de que tres Acusados se coordinen contra un Juez real."
+        },
+        {
+          "question": "¿SAW Genesis tiene crossplay?",
+          "answer": "El crossplay no se ha confirmado para SAW Genesis. El juego está anunciado para PC a través de Steam, y los desarrolladores no han prometido emparejamiento ni progresión entre plataformas."
+        },
+        {
+          "question": "¿En qué plataformas está SAW Genesis?",
+          "answer": "SAW Genesis está confirmado para PC a través del acceso anticipado de Steam, mientras que las versiones para consola y la fecha de lanzamiento final siguen pendientes de anuncio."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Listo para sobrevivir a SAW Genesis?",
+      "description": "Desde tu primera prueba como Acusado hasta superar al Juez, nuestra wiki comunitaria cubre cada trampa, acertijo y estrategia de supervivencia con guías gratuitas y actualizadas.",
+      "primary": "Leer la guía para principiantes",
+      "secondary": "Jugar en Steam"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Guías de SAW Genesis",
+    "overviewDescription": "Empieza aquí con las guías de SAW Genesis sobre la fecha de lanzamiento, cómo jugar, el playtest y la beta, y un recorrido completo para principiantes por el bucle de la prueba 3v1."
+  },
+  "mechanics": {
+    "overviewTitle": "Jugabilidad y mecánicas de SAW Genesis",
+    "overviewDescription": "Descubre cómo funciona la jugabilidad de SAW Genesis: número de jugadores en multijugador, compatibilidad con crossplay, opciones para un jugador y las trampas que el Juez usa para poner a prueba a los Acusados."
+  },
+  "characters": {
+    "overviewTitle": "Personajes de SAW Genesis",
+    "overviewDescription": "Conoce el reparto de SAW Genesis, desde el Juez y los Acusados hasta Jigsaw, John Kramer y Billy, y descubre cómo cada rol da forma a una prueba."
+  },
+  "platforms": {
+    "overviewTitle": "Plataformas de SAW Genesis",
+    "overviewDescription": "Consulta todas las plataformas de SAW Genesis, incluidas Steam y PC, PS5, Xbox y Nintendo Switch, y lo que pueden esperar los jugadores de consola en el lanzamiento."
+  },
+  "news": {
+    "overviewTitle": "Noticias y novedades de SAW Genesis",
+    "overviewDescription": "Las últimas noticias, tráilers y anuncios de SAW Genesis, incluido el tráiler oficial, las novedades de lanzamiento y la cobertura de Gamescom."
+  },
+  "story": {
+    "overviewTitle": "Historia y trasfondo de SAW Genesis",
+    "overviewDescription": "Explora la historia, el trasfondo y la ambientación de SAW Genesis, además de la trama y la línea temporal que conectan el juego con el universo SAW."
+  },
+  "shared": {
+    "wikiNavigation": "Navegación de la wiki",
+    "activeCodes": "Códigos activos",
+    "updated": "Actualizado",
+    "viewAllCodes": "Ver todos los códigos",
+    "playOnRoblox": "Jugar en Roblox",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Índice",
+    "nextSteps": "Siguientes pasos",
+    "needHelp": "¿Necesitas ayuda?",
+    "relatedReading": "Lecturas relacionadas",
+    "relatedGuides": "Guías relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Contenido oficial",
+    "home": "Inicio",
+    "noGuidesAvailable": "Aún no hay guías disponibles. ¡Vuelve pronto!"
+  },
+  "footer": {
+    "aboutTitle": "SAW Genesis Wiki",
+    "about": "La Wiki de SAW Genesis es un centro de guías independiente creado por fans que cubre los roles de Juez y Acusado, trampas, acertijos, novedades y conocimientos esenciales de supervivencia tanto para jugadores nuevos como veteranos.",
+    "quickLinks": "Enlaces rápidos",
+    "guides": "Guías",
+    "legal": "Legal",
+    "copyright": "2026 SAW Genesis Wiki. Sin afiliación con Broken Mirror Games ni con los titulares de los derechos de la saga SAW.",
+    "description": "Juego de terror multijugador asimétrico 3v1. Juega como el Juez o escapa como uno de los tres Acusados.",
+    "playGame": "Jugar a SAW Genesis en Steam",
+    "officialDiscord": "Discord oficial",
+    "officialYoutube": "YouTube oficial",
+    "vvBuilder": "Centro social oficial",
+    "beginnerGuide": "Guía para principiantes",
+    "raceGuides": "Guías de roles",
+    "bossGuides": "Guías de trampas",
+    "buildGuide": "Guía de supervivencia",
+    "privacyPolicy": "Política de privacidad",
+    "termsOfService": "Términos de servicio"
+  }
+}

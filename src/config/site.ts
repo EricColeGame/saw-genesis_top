@@ -33,6 +33,6 @@ export const siteConfig: SiteConfig = {
     youtube: "https://www.youtube.com/watch?v=PhgYHFBjq48",
     twitter: "https://linktr.ee/SawGenesis",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: ["en", "de", "fr", "es"],
   defaultLocale: "en",
 };

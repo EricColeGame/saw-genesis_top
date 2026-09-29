@@ -1,1 +1,474 @@
-{}
+{
+  "site": {
+    "name": "SAW Genesis Wiki",
+    "shortName": "SAW Genesis",
+    "tagline": "Vollständige Guides, Fallen, Rollen & Überlebensstrategien",
+    "description": "Vollständiges SAW Genesis Wiki mit Gameplay-Guides, Rollen als Richter und Angeklagter, Fallen, Rätseln, Updates und Überlebensstrategien für dieses 3v1-Multiplayer-Horrorspiel.",
+    "legalNotice": "Inoffizielles Fan-Wiki. Von Spielern für Spieler erstellt."
+  },
+  "nav": {
+    "home": "Start",
+    "menu": "Menü",
+    "toggleTheme": "Design wechseln",
+    "guide": "Guide",
+    "mechanics": "Mechaniken",
+    "characters": "Charaktere",
+    "platforms": "Plattformen",
+    "news": "News",
+    "story": "Story"
+  },
+  "home": {
+    "meta": {
+      "title": "SAW Genesis Wiki – Fallen, Guides & Gameplay",
+      "description": "Entdecke das SAW Genesis Wiki mit ausführlichen Gameplay-Guides, Informationen zu Fallen, Strategien für Richter und Angeklagte, Updates und Überlebenstipps für das neue Multiplayer-Horrorspiel."
+    },
+    "hero": {
+      "eyebrow": "Asymmetrisches Multiplayer-Horrorspiel",
+      "title": "SAW Genesis Wiki",
+      "description": "Vollständiges SAW Genesis Wiki mit Gameplay-Guides, Rollen als Richter und Angeklagter, Fallen, Rätseln, Updates und Überlebensstrategien für dieses 3v1-Multiplayer-Horrorspiel.",
+      "stats": [
+        "3 Rollen verfügbar",
+        "0 aktive Codes",
+        "Wöchentliche Updates",
+        "Besuche insgesamt: folgt"
+      ],
+      "primaryCta": "Anfänger-Guide",
+      "secondaryCta": "Rollen: Richter & Angeklagter",
+      "tertiaryCta": "Auf Steam spielen",
+      "videoLabel": "Offizielle Medien"
+    },
+    "updates": {
+      "title": "Neueste Updates",
+      "browse": "Alle Guides durchsuchen",
+      "viewAll": "Alle anzeigen"
+    },
+    "start": {
+      "eyebrow": "Hier starten",
+      "title": "Deine SAW Genesis-Reise",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Anfänger-Guide",
+          "description": "Lerne die Rollen als Angeklagter und Richter, Überlebensgewohnheiten im Labyrinth und Voice-Chat-Taktiken vor deiner ersten SAW Genesis-Prüfung."
+        },
+        {
+          "number": "2",
+          "title": "Rollen: Richter vs. Angeklagte",
+          "description": "Vergleiche beide Seiten des 3v1-Matches und entscheide, ob du die Prüfung leiten oder aus ihr entkommen willst."
+        },
+        {
+          "number": "3",
+          "title": "Fallen & Überlebensgrundlagen",
+          "description": "Lies dich in Fallensituationen ein, geh mit bleibenden Verletzungen um und halte dein Team im Labyrinth in Bewegung."
+        },
+        {
+          "number": "4",
+          "title": "Spielanleitung",
+          "description": "Verstehe die Kernschleife, die Playtest-Warteliste und was dich in deinem ersten SAW Genesis-Match erwartet."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Beliebte Seiten",
+      "title": "Gerade im Trend",
+      "quickLinks": [
+        "Richter-Guide",
+        "Angeklagten-Guide",
+        "Fallen",
+        "Release-Datum"
+      ],
+      "cards": [
+        {
+          "badge": "Anfänger",
+          "title": "SAW Genesis Anfänger-Guide",
+          "description": "Rollen, Überleben im Labyrinth, Voice-Chat-Taktiken und alles, was du für deine erste Prüfung brauchst.",
+          "href": "/guide/saw-genesis-beginner-guide"
+        },
+        {
+          "badge": "Neu",
+          "title": "Richter-Guide",
+          "description": "Versteckte Gänge, halluzinogenes Gas, Toxine und wie der fragile Richter Prüfungen gewinnt.",
+          "href": "/characters/saw-genesis-judge"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Angeklagten-Guide",
+          "description": "Wie drei Gefangene zusammenarbeiten, was Körperteilopfer kosten und wie du den Richter überlistest.",
+          "href": "/characters/saw-genesis-accused"
+        },
+        {
+          "badge": "Aktualisiert",
+          "title": "Fallen-Überlebensguide",
+          "description": "Wie die Fallen in SAW Genesis funktionieren, plus eine Schritt-für-Schritt-Methode, um die Prüfungen im Labyrinth zu überleben.",
+          "href": "/mechanics/saw-genesis-traps"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Gameplay erklärt",
+          "description": "Die 3v1-Schleife Richter gegen Angeklagte, prozedurale Karten, bleibende Verletzungen und Überlebenstipps.",
+          "href": "/mechanics/saw-genesis-gameplay"
+        },
+        {
+          "badge": "Aktualisiert",
+          "title": "Release-Datum",
+          "description": "SAW Genesis ist auf Q1 2027 im Steam Early Access verschoben; hier erfährst du, was sich geändert hat und warum.",
+          "href": "/guide/saw-genesis-release-date"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Story & Lore",
+          "description": "Der Richter, die Zeitlinie der 1920er und wie SAW Genesis in Jigsaws Kanon passt.",
+          "href": "/story/saw-genesis-story"
+        },
+        {
+          "badge": "Neu",
+          "title": "Plattformen & PC-Anforderungen",
+          "description": "Jede bestätigte Plattform, der Steam-Status und die Systemanforderungen, die du brauchst.",
+          "href": "/platforms/saw-genesis-platforms"
+        },
+        {
+          "badge": "Neu",
+          "title": "Crossplay-Status",
+          "description": "Was aktuell zu Crossplay und Cross-Progression in SAW Genesis bestätigt ist.",
+          "href": "/mechanics/saw-genesis-crossplay"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Was ist SAW Genesis?",
+      "paragraphs": [
+        "SAW Genesis ist ein asymmetrisches 3v1-Multiplayer-Horrorspiel von Bloober Team, das die SAW-Reihe zurück ins London der 1920er Jahre führt, Jahrzehnte vor John Kramers Prüfungen. Ein Spieler wird zum Richter, einem frühen Architekten der Philosophie, die später Jigsaw werden sollte, während drei Angeklagte zusammenarbeiten, um Prüfungen zu lösen, Fallen zu überleben und aus einem Labyrinth zu entkommen, das sich in jedem Match neu zusammensetzt.",
+        "Statt eines modernen Industriekellers spielt SAW Genesis in den düsteren Nachwirkungen des Ersten Weltkriegs, wo grobe dampfbetriebene Fallen und bleibende Verletzungen jede Entscheidung zu einer Frage von Leben oder Gliedmaßen machen. Unser SAW Genesis Wiki deckt Rollen, Überlebenstaktiken für Fallen, Story, Plattformen und Release-Updates mit kostenlosen Guides ab, die auf bestätigten Details basieren."
+      ],
+      "stats": [
+        {
+          "label": "Entwickler",
+          "value": "Bloober Team"
+        },
+        {
+          "label": "Plattform",
+          "value": "PC (Steam)"
+        },
+        {
+          "label": "Genre",
+          "value": "3v1-Horror"
+        },
+        {
+          "label": "Schauplatz",
+          "value": "London der 1920er"
+        },
+        {
+          "label": "Spieler",
+          "value": "4 (3v1)"
+        },
+        {
+          "label": "Release",
+          "value": "Early Access 2027"
+        }
+      ],
+      "cta": "Alle Guides entdecken"
+    },
+    "explore": {
+      "title": "SAW Genesis Wiki erkunden",
+      "description": "Jedes System von SAW Genesis an einem Ort: die 3v1-Gameplay-Schleife, die Rollen als Richter und Angeklagter, Fallen, Karten, Updates, Systemanforderungen und die offizielle Community.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "SAW Genesis Gameplay-Guide",
+          "description": "Erklärt die Kern-Gameplay-Schleife, die asymmetrische 3v1-Horrorstruktur, Match-Ziele und die Funktionsweise der Rollen als Richter und Angeklagter. Dieses Modul hilft neuen Spielern zu verstehen, was sie vor dem Spielen erwartet.",
+          "href": "/mechanics/saw-genesis-gameplay",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Als einer von drei Angeklagten oder als Richter in eine 3v1-Prüfung einsteigen"
+            },
+            {
+              "label": "2",
+              "detail": "Angeklagte sammeln Gegenstände, lösen Aufgaben und sammeln Schlüssel, bevor die Zeit abläuft"
+            },
+            {
+              "label": "3",
+              "detail": "Der Richter nutzt versteckte Gänge, halluzinogenes Gas und lähmende Toxine, um das Tempo zu kontrollieren"
+            },
+            {
+              "label": "4",
+              "detail": "Gemeinsam aus dem Labyrinth entkommen – oder in eine Rehabilitationsfalle gezogen werden"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "SAW Genesis Charaktere-Guide",
+          "description": "Stellt die spielbaren Seiten vor, darunter die Rollen als Richter und Angeklagter, ihre Gameplay-Unterschiede und strategischen Aufgaben während der Prüfungen. Nützlich für Suchen zu Charakteren, Rollen und Klassen.",
+          "href": "/characters/saw-genesis-characters",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Richter",
+              "detail": "Solo-Rolle, die die Prüfung festlegt, versteckte Gänge überwacht und die Fallen steuert"
+            },
+            {
+              "label": "Angeklagte",
+              "detail": "Dreierteam, das Schlüssel sammelt, Rätsel löst und gemeinsam entkommt"
+            },
+            {
+              "label": "Komplize",
+              "detail": "Beschwörbarer Verbündeter, der isolierte Angeklagte in Rehabilitationsfallen zieht"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "SAW Genesis Anfänger-Guide",
+          "description": "Bietet Anfängertipps zu Überlebensstrategien, Teamarbeit, Fallenbewusstsein und grundlegenden Entscheidungen für Erstspieler. Gedacht für Suchen neuer Spieler und die Vorbereitung auf den Early Access.",
+          "href": "/guide/saw-genesis-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Tritt der offiziellen Warteliste über die SAW Genesis Playtest-Seite bei"
+            },
+            {
+              "label": "2",
+              "detail": "Schließe das Onboarding ab, unterschreibe die NDA und sichere dir deinen Steam-Key"
+            },
+            {
+              "label": "3",
+              "detail": "Lade den Client vor dem Testtag vor, damit du die ersten Stunden nicht verpasst"
+            },
+            {
+              "label": "4",
+              "detail": "Teste dein Mikrofon, denn Proximity-Voice-Chat ist entscheidend fürs Überleben"
+            },
+            {
+              "label": "5",
+              "detail": "Lerne die Steuerung im Tutorial, um unter Druck nicht ins Stocken zu geraten"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "SAW Genesis Fallen-Guide",
+          "description": "Behandelt die Fallenmechaniken des Spiels, Umgebungsgefahren und den Umgang der Spieler mit Aufgaben während der Prüfungen. Richtet sich an Nutzer, die nach Fallen, Rätseln und Überlebensmechaniken suchen.",
+          "href": "/mechanics/saw-genesis-traps",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Tödliche Rehabilitationsfallen, bei denen eine falsche Entscheidung einen Durchlauf sofort beenden kann"
+            },
+            {
+              "label": "A",
+              "detail": "Gefahren mit bleibenden Verletzungen, die einen Arm oder ein Bein kosten und jedes spätere Rätsel schwächen"
+            },
+            {
+              "label": "B",
+              "detail": "Kontrollfallen wie Gas und Toxine, die die Gruppe spalten und die Zeit verbrennen"
+            },
+            {
+              "label": "C",
+              "detail": "Kleinere Gefahren, die das Team aufhalten, ohne bleibenden Schaden zu hinterlassen"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "SAW Genesis Karten-Guide",
+          "description": "Erklärt Kartensysteme, prozedural generierte Umgebungen, Erkundungsziele und Navigationsstrategien. Dieses Modul kann erweitert werden, sobald offizielle Schauplätze enthüllt werden.",
+          "href": "/story/saw-genesis-setting",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "London",
+              "detail": "Der Schauplatz London der 1920er Jahre nach dem Ersten Weltkrieg prägt jede Prüfungsumgebung"
+            },
+            {
+              "label": "Zufällig",
+              "detail": "Prozedural generierte Layouts mischen Routen und Fallenplatzierung zwischen den Matches neu"
+            },
+            {
+              "label": "2 Karten",
+              "detail": "Für den Early Access sind zwei Schauplätze geplant, zur Vollversion etwa fünf"
+            },
+            {
+              "label": "Ausgänge",
+              "detail": "Finde die Schlüssel und erreiche den Ausgang, bevor der Prüfungstimer abläuft"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "SAW Genesis News und Updates",
+          "description": "Sammelt offizielle Ankündigungen, Playtest-Informationen, Early-Access-Updates und Entwicklungsnews. Hilft Nutzern, die nach Release-Updates und neuen Inhalten suchen.",
+          "href": "/news/saw-genesis-news",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Q1 2027",
+              "detail": "SAW Genesis Early-Access-Fenster auf Steam nach der Verschiebung von 2026"
+            },
+            {
+              "label": "24. Sep. 2026",
+              "detail": "Bloober Team bestätigt die Verschiebung des Release-Fensters auf Q1 2027"
+            },
+            {
+              "label": "Aug. 2026",
+              "detail": "Erster geschlossener Alpha-Test für den SAW Genesis Playtest angekündigt"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "SAW Genesis Systemanforderungen",
+          "description": "Zeigt offizielle PC-Anforderungen, unterstützte Plattformen und technische Informationen, die vor dem Spielen nötig sind. Richtet sich an Suchen zur Download-Vorbereitung und Performance.",
+          "href": "/platforms/saw-genesis-pc",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "OS",
+              "detail": "Windows 11 (25H2) ist sowohl für Mindest- als auch für empfohlene Builds angegeben"
+            },
+            {
+              "label": "CPU",
+              "detail": "Intel Core i5-14400F oder gleichwertig"
+            },
+            {
+              "label": "RAM",
+              "detail": "16 GB Arbeitsspeicher"
+            },
+            {
+              "label": "GPU",
+              "detail": "GeForce RTX 3070 8 GB minimum, RTX 5060 8 GB empfohlen"
+            },
+            {
+              "label": "Speicher",
+              "detail": "15 GB verfügbarer Speicherplatz, NVMe-SSD erforderlich"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "SAW Genesis Community-Guide",
+          "description": "Bietet offizielle Community-Kanäle einschließlich Discord und sozialer Plattformen, auf denen Spieler Updates, Playtests und Strategien besprechen können. Nützlich für Nutzer, die offizielle Communities suchen.",
+          "href": "/guide/saw-genesis-playtest",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Discord",
+              "detail": "Tritt dem offiziellen SAW Genesis Discord für Playtest-Wellen und Updates bei"
+            },
+            {
+              "label": "Socials",
+              "detail": "Folge dem offiziellen Social Hub für Trailer und Ankündigungen"
+            },
+            {
+              "label": "Steam",
+              "detail": "Setze SAW Genesis auf Steam auf die Wunschliste und folge der Store-Seite für Release-News"
+            },
+            {
+              "label": "YouTube",
+              "detail": "Sieh dir den offiziellen SAW Genesis-Trailer und Gameplay-Videos an"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "description": "Schnelle Antworten auf die häufigsten Fragen zu SAW Genesis.",
+      "items": [
+        {
+          "question": "Was ist SAW Genesis?",
+          "answer": "SAW Genesis ist ein asymmetrisches 3v1-Multiplayer-Horrorspiel von Bloober Team, das im London der 1920er Jahre spielt. Ein Spieler steuert den Richter und die Fallen der Prüfung, während drei Angeklagte zusammenarbeiten, um Aufgaben zu lösen, Schlüssel zu sammeln und aus dem Labyrinth zu entkommen."
+        },
+        {
+          "question": "Wann erscheint SAW Genesis?",
+          "answer": "SAW Genesis zielt auf den Steam Early Access im Q1 2027. Bloober Team hat das Fenster von 2026 verschoben, um dem Spiel mehr Entwicklungszeit zu geben; eine Vollversion wird nach etwa einem Jahr Early Access erwartet."
+        },
+        {
+          "question": "Wie viele Spieler unterstützt SAW Genesis?",
+          "answer": "Jedes SAW Genesis-Match ist eine 3v1-Prüfung: drei Angeklagte gegen einen Richter, insgesamt vier Spieler. Die Karten werden prozedural generiert, daher ändert sich das Layout zwischen den Matches."
+        },
+        {
+          "question": "Kann man SAW Genesis allein spielen?",
+          "answer": "SAW Genesis ist auf Online-Multiplayer ausgelegt, und es gibt keinen bestätigten Einzelspielermodus. Die 3v1-Struktur hängt von drei Angeklagten ab, die sich gegen einen echten Richter koordinieren."
+        },
+        {
+          "question": "Ist SAW Genesis Crossplay?",
+          "answer": "Crossplay wurde für SAW Genesis nicht bestätigt. Das Spiel ist für PC über Steam angekündigt, und die Entwickler haben weder plattformübergreifendes Matchmaking noch Cross-Progression versprochen."
+        },
+        {
+          "question": "Auf welchen Plattformen ist SAW Genesis verfügbar?",
+          "answer": "SAW Genesis ist für PC über Steam Early Access bestätigt; Konsolenversionen und ein endgültiges Release-Datum stehen noch aus."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Bereit, SAW Genesis zu überleben?",
+      "description": "Von deiner ersten Prüfung als Angeklagter bis zum Überlisten des Richters deckt unser Community-Wiki jede Falle, jedes Rätsel und jede Überlebensstrategie mit kostenlosen, aktuellen Guides ab.",
+      "primary": "Den Anfänger-Guide lesen",
+      "secondary": "Auf Steam spielen"
+    }
+  },
+  "guide": {
+    "overviewTitle": "SAW Genesis Guides",
+    "overviewDescription": "Starte hier mit den SAW Genesis Guides zu Release-Datum, Spielanleitung, Playtest und Beta sowie einem vollständigen Anfänger-Walkthrough der 3v1-Prüfungsschleife."
+  },
+  "mechanics": {
+    "overviewTitle": "SAW Genesis Gameplay & Mechaniken",
+    "overviewDescription": "Erfahre, wie das Gameplay von SAW Genesis funktioniert: Spielerzahlen im Multiplayer, Crossplay-Unterstützung, Einzelspieleroptionen und die Fallen, mit denen der Richter die Angeklagten prüft."
+  },
+  "characters": {
+    "overviewTitle": "SAW Genesis Charaktere",
+    "overviewDescription": "Lerne die Besetzung von SAW Genesis kennen, vom Richter und den Angeklagten bis zu Jigsaw, John Kramer und Billy, und sieh, wie jede Rolle eine Prüfung prägt."
+  },
+  "platforms": {
+    "overviewTitle": "SAW Genesis Plattformen",
+    "overviewDescription": "Prüfe jede SAW Genesis-Plattform, darunter Steam und PC, PS5, Xbox, Nintendo Switch, und was Konsolenspieler zum Start erwarten können."
+  },
+  "news": {
+    "overviewTitle": "SAW Genesis News & Updates",
+    "overviewDescription": "Die neuesten SAW Genesis-News, Trailer und Ankündigungen, darunter der offizielle Trailer, Release-Updates und die Gamescom-Berichterstattung."
+  },
+  "story": {
+    "overviewTitle": "SAW Genesis Story & Lore",
+    "overviewDescription": "Erkunde Story, Lore und Schauplatz von SAW Genesis sowie Handlung und Zeitlinie, die das Spiel mit dem größeren SAW-Universum verbinden."
+  },
+  "shared": {
+    "wikiNavigation": "Wiki-Navigation",
+    "activeCodes": "Aktive Codes",
+    "updated": "Aktualisiert",
+    "viewAllCodes": "Alle Codes ansehen",
+    "playOnRoblox": "Auf Roblox spielen",
+    "inThisSection": "In diesem Abschnitt",
+    "tableOfContents": "Inhaltsverzeichnis",
+    "nextSteps": "Nächste Schritte",
+    "needHelp": "Brauchst du Hilfe?",
+    "relatedReading": "Verwandte Lektüre",
+    "relatedGuides": "Verwandte Guides",
+    "readMore": "Mehr lesen",
+    "officialMedia": "Offizielle Medien",
+    "home": "Start",
+    "noGuidesAvailable": "Noch keine Guides verfügbar. Schau bald wieder vorbei!"
+  },
+  "footer": {
+    "aboutTitle": "SAW Genesis Wiki",
+    "about": "Das SAW Genesis Wiki ist ein unabhängiger, von Fans erstellter Guide-Hub zu den Rollen als Richter und Angeklagter, Fallen, Rätseln, Updates und wichtigem Überlebenswissen für neue und erfahrene Spieler.",
+    "quickLinks": "Schnelllinks",
+    "guides": "Guides",
+    "legal": "Rechtliches",
+    "copyright": "2026 SAW Genesis Wiki. Nicht mit Broken Mirror Games oder den Rechteinhabern der SAW-Reihe verbunden.",
+    "description": "Asymmetrisches 3v1-Multiplayer-Horrorspiel. Spiele als Richter oder entkomme als einer von drei Angeklagten.",
+    "playGame": "SAW Genesis auf Steam spielen",
+    "officialDiscord": "Offizieller Discord",
+    "officialYoutube": "Offizielles YouTube",
+    "vvBuilder": "Offizieller Social Hub",
+    "beginnerGuide": "Anfänger-Guide",
+    "raceGuides": "Rollen-Guides",
+    "bossGuides": "Fallen-Guides",
+    "buildGuide": "Überlebens-Guide",
+    "privacyPolicy": "Datenschutzerklärung",
+    "termsOfService": "Nutzungsbedingungen"
+  }
+}
