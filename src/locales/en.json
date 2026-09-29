@@ -43,22 +43,22 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn the Accused and Judge roles, maze survival habits, and voice chat tactics before your first SAW Genesis trial."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Judge vs Accused Roles",
+          "description": "Compare both sides of the 3v1 match and decide whether you want to run the trial or escape it."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Traps & Survival Basics",
+          "description": "Read trap situations, manage permanent injuries, and keep your team moving through the maze."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in SAW Genesis."
+          "title": "How to Play",
+          "description": "Understand the core loop, the playtest waitlist, and what to expect from your first SAW Genesis match."
         }
       ]
     },
@@ -66,237 +66,303 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Judge Guide",
+        "Accused Guide",
+        "Traps",
+        "Release Date"
       ],
       "cards": [
         {
           "badge": "Beginner",
-          "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "title": "SAW Genesis Beginner Guide",
+          "description": "Roles, maze survival, voice chat tactics, and everything you need for your first trial.",
+          "href": "/guide/saw-genesis-beginner-guide"
+        },
+        {
+          "badge": "New",
+          "title": "Judge Guide",
+          "description": "Hidden corridors, hallucinogenic gas, toxins, and how the fragile Judge wins trials.",
+          "href": "/characters/saw-genesis-judge"
+        },
+        {
+          "badge": "Popular",
+          "title": "Accused Guide",
+          "description": "How three prisoners team up, what body-part sacrifices cost, and how to outplay the Judge.",
+          "href": "/characters/saw-genesis-accused"
         },
         {
           "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "title": "Traps Survival Guide",
+          "description": "How SAW Genesis traps work, plus a step-by-step method for surviving the maze trials.",
+          "href": "/mechanics/saw-genesis-traps"
+        },
+        {
+          "badge": "Popular",
+          "title": "Gameplay Explained",
+          "description": "The 3v1 Judge vs Accused loop, procedural maps, lasting injuries, and survival tips.",
+          "href": "/mechanics/saw-genesis-gameplay"
         },
         {
           "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "title": "Release Date",
+          "description": "SAW Genesis has moved to Q1 2027 on Steam Early Access; here is what changed and why.",
+          "href": "/guide/saw-genesis-release-date"
         },
         {
           "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "title": "Story & Lore",
+          "description": "The Judge, the 1920s timeline, and how SAW Genesis fits into Jigsaw's canon.",
+          "href": "/story/saw-genesis-story"
         },
         {
           "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
-        },
-        {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "title": "Platforms & PC Specs",
+          "description": "Every confirmed platform, Steam status, and the system requirements you will need.",
+          "href": "/platforms/saw-genesis-platforms"
         },
         {
           "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "title": "Crossplay Status",
+          "description": "What is confirmed about SAW Genesis crossplay and cross-progression right now.",
+          "href": "/mechanics/saw-genesis-crossplay"
         }
       ]
     },
     "aboutGame": {
       "title": "What is SAW Genesis?",
       "paragraphs": [
-        "SAW Genesis is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "SAW Genesis is a 3v1 asymmetrical multiplayer horror game from Bloober Team that takes the SAW franchise back to 1920s London, decades before John Kramer's trials. One player becomes the Judge, an early architect of the philosophy that would become Jigsaw, while three Accused players work together to solve trials, survive traps, and escape a maze that reshuffles every match.",
+        "Instead of a modern industrial basement, SAW Genesis unfolds in the grim aftermath of World War I, where crude steam-driven traps and permanent injuries turn every choice into a life-or-limb decision. Our SAW Genesis Wiki covers the roles, trap survival tactics, story, platforms, and release updates with free guides built from confirmed details."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "Bloober Team"
         },
         {
           "label": "Platform",
-          "value": "Roblox"
+          "value": "PC (Steam)"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "3v1 Horror"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Setting",
+          "value": "1920s London"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Players",
+          "value": "4 (3v1)"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
-        },
-        {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Release",
+          "value": "Early Access 2027"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
       "title": "Explore SAW Genesis Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Every SAW Genesis system in one place: the 3v1 gameplay loop, Judge and Accused roles, traps, maps, updates, system requirements, and the official community.",
       "modules": [
         {
           "order": 1,
-          "name": "SAW Genesis Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/saw-genesis-codes",
-          "displayType": "code-box",
+          "name": "SAW Genesis Gameplay Guide",
+          "description": "Explain the core gameplay loop, 3v1 asymmetrical horror structure, match objectives, and how Judge and Accused roles work. This module helps new players understand what to expect before playing.",
+          "href": "/mechanics/saw-genesis-gameplay",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Queue into a 3v1 trial as one Judge or one of three Accused"
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Accused scavenge items, solve challenges, and collect keys before the timer runs out"
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "The Judge uses hidden corridors, hallucinogenic gas, and paralyzing toxins to control the pace"
+            },
+            {
+              "label": "4",
+              "detail": "Escape the maze together, or be dragged into a Rehabilitation Trap"
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/saw-genesis-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "SAW Genesis Characters Guide",
+          "description": "Introduce the playable sides, including the Judge and Accused roles, their gameplay differences, and strategic responsibilities during trials. Useful for searches about characters, roles, and classes.",
+          "href": "/characters/saw-genesis-characters",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "Judge",
+              "detail": "Solo role that sets the trial, watches hidden corridors, and controls the traps"
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "Accused",
+              "detail": "Three-player team that scavenges keys, solves puzzles, and escapes together"
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "Accomplice",
+              "detail": "Summonable ally that drags isolated Accused into Rehabilitation Traps"
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/saw-genesis-tier-list",
-          "displayType": "tier-grid",
+          "name": "SAW Genesis Beginner Guide",
+          "description": "Provide beginner tips covering survival strategies, teamwork, trap awareness, and basic decisions for first-time players. Designed for new player searches and early access preparation.",
+          "href": "/guide/saw-genesis-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "1",
+              "detail": "Join the official waitlist through the SAW Genesis playtest page"
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "2",
+              "detail": "Complete onboarding, sign the NDA, and claim your Steam key"
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "3",
+              "detail": "Preload the client before test day so you do not miss the opening hours"
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "4",
+              "detail": "Test your microphone, because proximity voice chat is core to survival"
+            },
+            {
+              "label": "5",
+              "detail": "Learn the controls in the tutorial to avoid fumbling under pressure"
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/saw-genesis-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "SAW Genesis Traps Guide",
+          "description": "Cover the game's trap mechanics, environmental dangers, and how players interact with challenges during trials. This targets users searching for traps, puzzles, and survival mechanics.",
+          "href": "/mechanics/saw-genesis-traps",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "S",
+              "detail": "Lethal rehabilitation traps where one failed decision can end a run outright"
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "A",
+              "detail": "Permanent-injury hazards that cost an arm or leg and weaken every later puzzle"
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "B",
+              "detail": "Control traps such as gas and toxins that split the group and burn the timer"
+            },
+            {
+              "label": "C",
+              "detail": "Minor hazards that slow the team down without leaving lasting damage"
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/saw-genesis-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "SAW Genesis Maps Guide",
+          "description": "Explain map systems, procedurally generated environments, exploration objectives, and navigation strategies. This module can be expanded as official locations are revealed.",
+          "href": "/story/saw-genesis-setting",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "London",
+              "detail": "The 1920s London setting after World War I shapes every trial environment"
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Random",
+              "detail": "Procedurally generated layouts reshuffle routes and trap placement between matches"
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "2 Maps",
+              "detail": "Two locations are planned for Early Access, expanding to around five at full release"
+            },
+            {
+              "label": "Exits",
+              "detail": "Find the keys and reach the exit before the trial timer expires"
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/saw-genesis-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "SAW Genesis News and Updates",
+          "description": "Collect official announcements, playtest information, Early Access updates, and development news. Helps users looking for release updates and new content.",
+          "href": "/news/saw-genesis-news",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Q1 2027",
+              "detail": "SAW Genesis Early Access window on Steam after the delay from 2026"
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Sep 24 2026",
+              "detail": "Bloober Team confirms the release window moves to Q1 2027"
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Aug 2026",
+              "detail": "First closed alpha test announced for the SAW Genesis playtest"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "SAW Genesis System Requirements",
+          "description": "Show official PC requirements, supported platforms, and technical information needed before playing. Targets searches about download preparation and performance.",
+          "href": "/platforms/saw-genesis-pc",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "OS",
+              "detail": "Windows 11 (25H2) is listed for both minimum and recommended builds"
+            },
+            {
+              "label": "CPU",
+              "detail": "Intel Core i5-14400F or equivalent"
+            },
+            {
+              "label": "RAM",
+              "detail": "16 GB of memory"
+            },
+            {
+              "label": "GPU",
+              "detail": "GeForce RTX 3070 8GB minimum, RTX 5060 8GB recommended"
+            },
+            {
+              "label": "Storage",
+              "detail": "15 GB of available space with an NVMe SSD required"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "SAW Genesis Community Guide",
+          "description": "Provide official community channels including Discord and social platforms where players can discuss updates, playtests, and strategies. Useful for users searching for official communities.",
+          "href": "/guide/saw-genesis-playtest",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Discord",
+              "detail": "Join the official SAW Genesis Discord for playtest waves and updates"
+            },
+            {
+              "label": "Socials",
+              "detail": "Follow the official social hub for trailers and announcements"
+            },
+            {
+              "label": "Steam",
+              "detail": "Wishlist SAW Genesis on Steam and follow the store page for release news"
+            },
+            {
+              "label": "YouTube",
+              "detail": "Watch the official SAW Genesis trailer and gameplay videos"
             }
           ]
         }
@@ -308,23 +374,27 @@
       "items": [
         {
           "question": "What is SAW Genesis?",
-          "answer": "SAW Genesis is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "answer": "SAW Genesis is a 3v1 asymmetrical multiplayer horror game from Bloober Team set in 1920s London. One player controls the Judge and the trial's traps, while three Accused players cooperate to solve challenges, collect keys, and escape the maze."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "When does SAW Genesis release?",
+          "answer": "SAW Genesis is targeting Steam Early Access in Q1 2027. Bloober Team moved the window from 2026 to give the game more development time, and a full release is expected after roughly a year of Early Access."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "How many players does SAW Genesis support?",
+          "answer": "Every SAW Genesis match is a 3v1 trial: three Accused players against one Judge, for four players in total. The maps are procedurally generated, so the layout changes between matches."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "Can you play SAW Genesis solo?",
+          "answer": "SAW Genesis is built around online multiplayer, and there is no confirmed single-player mode. The 3v1 structure depends on three Accused coordinating against a live Judge."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Is SAW Genesis crossplay?",
+          "answer": "Crossplay has not been confirmed for SAW Genesis. The game is announced for PC through Steam, and the developers have not promised cross-platform matchmaking or cross-progression."
+        },
+        {
+          "question": "What platforms is SAW Genesis on?",
+          "answer": "SAW Genesis is confirmed for PC through Steam Early Access, with console versions and a final release date still to be announced."
         }
       ]
     },
